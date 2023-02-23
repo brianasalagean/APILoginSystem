@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APILoginSystem2", "APILoginSystem2.csproj", "{FDF688E2-7ECA-4FBB-80A4-61043685D552}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDF688E2-7ECA-4FBB-80A4-61043685D552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDF688E2-7ECA-4FBB-80A4-61043685D552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDF688E2-7ECA-4FBB-80A4-61043685D552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDF688E2-7ECA-4FBB-80A4-61043685D552}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {329CC47B-1307-4414-94B2-DFC13726C46A}
+	EndGlobalSection
+EndGlobal
